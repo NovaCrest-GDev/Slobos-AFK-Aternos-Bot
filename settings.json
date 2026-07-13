@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "193.56.156.25",
+    "ip": "NorthForge.aternos.me",
     "port": 18600,
     "version": "1.21.1",
     "try-creative": false
