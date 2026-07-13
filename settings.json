@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " kaluga.aternos.host",
+    "ip": "193.56.156.25",
     "port": 18600,
     "version": "",
     "try-creative": false
